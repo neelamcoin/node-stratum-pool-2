@@ -362,7 +362,13 @@ Credits
 
 Donations
 ---------
-To support development of this project feel free to donate :)
+H_tchet (joshyOcuk) modified for zero equihash 192,7
+* ZERO 't1KSdYGaC3Jb2dbJmaSLMqZLze63AN9WiNx'
+* BTC  '1Ku4bz7Ymw2xectciXyUS4B8CdSUyisDCx'
+'
+
+
+Z-Nomp To support development of this project feel free to donate :)
 
 * BTC: `1KRotMnQpxu3sePQnsVLRy3EraRFYfJQFR`
 * LTC: `LKfavSDJmwiFdcgaP1bbu46hhyiWw5oFhE`
